@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="" />
+    <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/app/controllers/CurrencyController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/layouts/watches.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/widgets/Currency/Currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/widgets/Currency/currency_tpl/currency.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/flexslider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/memenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/BreeSerif-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Lato-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Lora-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Muli-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/fonts/Philosopher-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/abt-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/abt-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/abt-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/arrow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bnr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bnr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/bnr-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/c-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cart-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cart-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/cart-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/close.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/crossword.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/no_image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/p-8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pr-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/pr-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/s-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/imagezoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery-1.11.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.easydropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/jquery.flexslider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/memenu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/responsiveslides.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/simpleCart.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/MainController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/MainController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/PageController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Main/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Main/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config_db.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/config_db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/init.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/init.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/098f6bcd4621d373cade4e832627b4f6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/098f6bcd4621d373cade4e832627b4f6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/libs/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/libs/functions.php" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,12 +81,34 @@
       <executable />
     </execution>
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="ishop.loc" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package_json" />
+        <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -29,10 +118,20 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1TyfXOThRQQQ8Vw2dkxHK1z7khm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ishop.loc\public\images" />
+      <recent name="C:\xampp\htdocs\ishop.loc\public\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -85,7 +184,9 @@
       <workItem from="1503233344227" duration="1391000" />
       <workItem from="1503301228775" duration="3220000" />
       <workItem from="1574437295452" duration="19688000" />
-      <workItem from="1575115591392" duration="3957000" />
+      <workItem from="1575115591392" duration="44428000" />
+      <workItem from="1578661395082" duration="110000" />
+      <workItem from="1578662115957" duration="4627000" />
     </task>
     <servers />
   </component>
@@ -94,5 +195,21 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

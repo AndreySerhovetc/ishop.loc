@@ -222,3 +222,287 @@
 =================
 [2019-11-30 15:19:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\default.php | Строка: 14
 =================
+[2019-11-30 15:36:20] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:37:05] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:37:08] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:37:53] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:38:10] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:38:12] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:38:33] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:38:36] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:40:14] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:43:36] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:43:57] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:46:58] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:47:13] Текст ошибки: Expected array, string given. | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Finder.php | Строка: 146
+=================
+[2019-11-30 15:56:36] Текст ошибки: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'ishop.text' doesn't exist | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2019-11-30 19:21:31] Текст ошибки: Call to undefined function ishop\file_put_contents_contents() | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Cache.php | Строка: 15
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:13:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:16] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:15:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:19:47] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:19:53] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:20:19] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-01 15:35:00] Текст ошибки: Call to undefined method ishop\base\View::setMeta() | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\watches.php | Строка: 10
+=================
+[2019-12-01 15:36:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-16 12:37:18] Текст ошибки: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\ishop.loc\app\views\Main\index.php | Строка: 288
+=================
+[2019-12-19 17:24:44] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 14:55:27] Текст ошибки: syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\ishop.loc\app\views\Main\index.php | Строка: 166
+=================
+[2019-12-24 15:05:33] Текст ошибки: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\ishop.loc\app\views\Main\index.php | Строка: 34
+=================
+[2019-12-24 15:49:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 15:50:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 15:52:30] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 15:55:55] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 15:56:08] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 15:56:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 15:58:06] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 16:00:03] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 16:00:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 16:15:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2019-12-24 16:22:57] Текст ошибки: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\ishop.loc\app\views\Main\index.php | Строка: 69
+=================
+[2019-12-24 16:22:59] Текст ошибки: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\ishop.loc\app\views\Main\index.php | Строка: 69
+=================
+[2019-12-25 16:55:07] Текст ошибки: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) | Файл: C:\xampp\htdocs\ishop.loc\app\views\Main\index.php | Строка: 69
+=================
+[2020-01-02 15:39:56] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:39:59] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:40:39] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:43:33] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:48:48] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:48:50] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:52:49] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:54:58] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 15:57:15] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 16:00:01] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 16:01:53] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 16:04:05] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 16:05:13] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 16:11:18] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 16:13:34] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\xampp\htdocs\ishop.loc\app\widgets\Currency\Currency.php on line 21 and exactly 2 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 11
+=================
+[2020-01-02 17:18:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================

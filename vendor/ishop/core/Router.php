@@ -20,7 +20,7 @@ class Router{
     }
 
     public static function dispatch($url){
-        self::removeQueryString($url);
+        $url = self::removeQueryString($url);
         if(self::matchRoute($url)){
             $controller = 'app\controllers\\' . self::$route['prefix'] . self::$route['controller'] . 'Controller';
             if(class_exists($controller)){
@@ -84,4 +84,5 @@ class Router{
             }
         }
     }
+
 }
