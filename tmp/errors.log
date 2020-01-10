@@ -506,3 +506,7 @@
 =================
 [2020-01-02 17:18:32] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
+[2020-01-10 17:45:48] Текст ошибки: Call to undefined function app\controllers\set() | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\AppController.php | Строка: 31
+=================
+[2020-01-10 17:46:27] Текст ошибки: Too few arguments to function ishop\Registry::getProperty(), 0 passed in C:\xampp\htdocs\ishop.loc\app\controllers\AppController.php on line 23 and exactly 1 expected | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Registry.php | Строка: 15
+=================
