@@ -2,14 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="currency">
-      <change afterPath="$PROJECT_DIR$/public/menu/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/menu/menu_tpl/menu.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProductController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Breadcrumbs.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Breadcrumbs.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/Product/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Product/view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/watches.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/watches.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/widgets/menu/Menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/menu/Menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/widgets/menu/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/menu/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/widgets/menu/menu_tpl/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/menu/menu_tpl/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/megamenu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/megamenu-js" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/megamenu-js/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/megamenu-js/js/megamenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js/js/megamenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,11 +83,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ishop.loc\public\megamenu-js\css" />
+      <recent name="C:\xampp\htdocs\ishop.loc\public\menu" />
+      <recent name="C:\xampp\htdocs\ishop.loc\app\widgets\menu" />
+      <recent name="C:\xampp\htdocs\ishop.loc\app\widgets\menu\menu_tpl" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\ishop.loc\public\images" />
       <recent name="C:\xampp\htdocs\ishop.loc\public\css" />
@@ -133,7 +153,7 @@
       <workItem from="1574437295452" duration="19688000" />
       <workItem from="1575115591392" duration="44428000" />
       <workItem from="1578661395082" duration="110000" />
-      <workItem from="1578662115957" duration="11591000" />
+      <workItem from="1578662115957" duration="51559000" />
     </task>
     <task id="LOCAL-00001" summary="currency">
       <created>1578668585129</created>
