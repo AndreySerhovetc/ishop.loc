@@ -1,2 +1,14 @@
 [2020-02-02 14:29:25] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Cart/add.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
 =================
+[2020-02-03 17:51:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-03 17:51:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-03 17:51:27] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-03 17:56:47] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-03 18:02:17] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-06 12:06:45] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================

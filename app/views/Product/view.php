@@ -81,7 +81,7 @@
 
                             </ul>
                             <div class="quantityty">
-                                <input type="number" size="4" value="1" name="quantity" min="1" step="1">
+                                <input id="qtyinpt" type="number" size="6" value="1" name="quantity" min="1" step="1">
                             </div>
                             <a id="productAdd" data-id="<?=$product->id;?>" href="cart/add?id=<?=$product->id;?>" class="add-cart item_add add-to-cart-link">ADD TO CART</a>
 

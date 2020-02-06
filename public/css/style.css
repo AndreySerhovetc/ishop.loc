@@ -3072,11 +3072,18 @@ h3.ghj {
 }
 
 .quantityty{
-	margin-top: 3em;
-	margin-right: 10px;
+	margin-top: 2.4em;
+	margin-right: 25px;
 	float: left;
 	
 }
- input .quantityty{
-	height: 40px;
+.quantityty #qtyinpt {
+	height: 36px;
+}
+#cart table img {
+	height: 50px;
+	
+}
+.del-item{
+	cursor: pointer;
 }
