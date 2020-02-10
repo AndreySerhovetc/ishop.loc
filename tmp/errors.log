@@ -12,3 +12,45 @@
 =================
 [2020-02-06 12:06:45] Текст ошибки: Метод app\controllers\CartController::viewAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
 =================
+[2020-02-07 16:01:57] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-07 16:02:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-07 16:02:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-07 16:30:37] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-10 13:22:03] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-10 13:22:04] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-10 13:22:12] Текст ошибки: Контроллер app\controllers\SearchController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-10 13:26:55] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:34:19] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:50:40] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:50:40] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:50:42] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:50:44] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:50:45] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:50:45] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:51:34] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:51:39] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:51:40] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 14:51:42] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Search/typeahead.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 15:01:37] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-10 15:21:23] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================

@@ -1,3 +1,30 @@
+/* Search */
+var products = new Bloodhound({
+    datumTokenizer: Bloodhound.tokenizers.whitespace,
+    queryTokenizer: Bloodhound.tokenizers.whitespace,
+    remote: {
+        wildcard: '%QUERY',
+        url: path + '/search/typeahead?query=%QUERY'
+    }
+});
+
+products.initialize();
+
+$("#typeahead").typeahead({
+    // hint: false,
+    highlight: true
+},{
+    name: 'products',
+    display: 'title',
+    limit: 10,
+    source: products
+});
+
+$('#typeahead').bind('typeahead:select', function(ev, suggestion) {
+    // console.log(suggestion);
+    window.location = path + '/search/?s=' + encodeURIComponent(suggestion.title);
+});
+
 /*Cart*/
 $('body').on('click', '.add-to-cart-link', function(e){
     e.preventDefault();
@@ -58,8 +85,23 @@ function getCart(){
        error: function(){
            alert('Ошибка! Попробуйте позже');
        }
-    });
-} 
+    }); 
+}
+
+function clearCart(){
+    $.ajax({
+        url: path + '/cart/clear',
+        type: 'GET',
+       success: function(res){
+        showCart(res);
+       },
+       error: function(){
+           alert('Ошибка! Попробуйте позже');
+       }
+    }); 
+}
+
+ 
 /*Cart*/
 
 $('#currency').change(function(){
@@ -76,4 +118,6 @@ $('.available select').on('change', function(){
    }else{
        $('#base-price').text(symboleLeft + basePrice + symboleRight);
    }
+
 });
+    

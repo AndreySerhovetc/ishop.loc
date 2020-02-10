@@ -16,7 +16,7 @@
                         <td><a href="product/<?=$item['alias'];?>"><img src="images/<?=$item['img'];?>" alt=""></a></td>
                         <td><a href="product/<?=$item['alias'];?>"><?=$item['title'];?></td>
                         <td><?=$item['qty'];?></td>
-                        <td><?=$_SESSION['cart.currency']['symbol_left'].$item['price'].$_SESSION['cart.currency']['symbol_right'] ;?></td>
+                        <td><?=$item['price'];?></td>
                         <td><span data-id="<?=$id;?>" class="glyphicon glyphicon-remove text-danger del-item" aria-hidden="true"></span></td>
                     </tr>
                 <?php endforeach;?>
