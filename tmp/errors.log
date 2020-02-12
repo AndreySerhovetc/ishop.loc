@@ -54,3 +54,41 @@
 =================
 [2020-02-10 15:21:23] Текст ошибки: Метод app\controllers\SearchController::indexAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
 =================
+[2020-02-10 16:35:32] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-10 16:35:37] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-10 17:24:01] Текст ошибки: Контроллер app\controllers\CategoryController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-10 17:33:59] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/Category/view.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-10 17:41:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 15
+=================
+[2020-02-10 18:19:26] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4,6,7,5,8,9,10,1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-10 18:21:36] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4,6,7,5,8,9,10,1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-10 18:21:36] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4,6,7,5,8,9,10,1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-10 18:21:40] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '6,7,4  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-10 18:21:42] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4,6,7,5,8,9,10,1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-10 18:28:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4,6,7,5,8,9,10,1  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-10 18:30:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================
+[2020-02-10 18:30:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================
+[2020-02-10 18:30:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================
+[2020-02-10 18:30:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================
+[2020-02-10 18:30:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================
+[2020-02-10 18:31:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================
+[2020-02-10 18:31:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================
+[2020-02-10 18:31:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
+=================

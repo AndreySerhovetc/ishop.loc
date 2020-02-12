@@ -3,8 +3,7 @@
     <div class="container">
         <div class="breadcrumbs-main">
             <ol class="breadcrumb">
-                <li><a href="<?=PATH;?>">Главная</a></li>
-                <li>Поиск по запросу "<?=h($query);?>"</li>
+                <?=$breadcrumbs;?>
             </ol>
         </div>
     </div>
@@ -45,6 +44,12 @@
                     <div class="clearfix"></div>
                 </div>
                 <?php endif; ?>
+                <div class="text-center">
+                            <p>(<?=count($products)?> товара(ов) из <?=$total;?>)</p>
+                            <?php if($pagination->countPages > 1): ?>
+                                <?=$pagination;?>
+                            <?php endif; ?>
+                        </div>
             </div>
             <div class="col-md-3 prdt-right">
                 <div class="w_sidebar">
