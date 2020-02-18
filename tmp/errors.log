@@ -92,3 +92,17 @@
 =================
 [2020-02-10 18:31:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 12
 =================
+[2020-02-18 14:15:28] Текст ошибки: Контроллер app\controllers\UserController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-18 14:38:22] Текст ошибки: Метод app\controllers\UserController::signupAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-18 14:53:34] Текст ошибки: Метод app\controllers\UserController::signupAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-18 16:32:58] Текст ошибки: Fail to load language file 'C:\xampp\htdocs\ishop.loc/public/validator/lang/ru.php' | Файл: C:\xampp\htdocs\ishop.loc\vendor\vlucas\valitron\src\Valitron\Validator.php | Строка: 113
+=================
+[2020-02-18 17:52:32] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-18 17:52:42] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-18 17:52:46] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'user1' for key 'login' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================

@@ -2,27 +2,55 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="currency">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/js/validator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/ar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/az.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/bg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/de.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/el.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/en.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/es.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/fi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/fr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/id.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/it.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/ja.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/ko.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/lt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/lv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/nb.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/nl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/nn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/no.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/pl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/pt-br.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/ro.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/ru.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/sk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/sv.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/th.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/tr.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/uk.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/vi.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/zh-cn.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/validator/lang/zh-tw.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ishop2.loc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ishop2.loc.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/AppController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/ProductController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/Breadcrumbs.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Breadcrumbs.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/Product.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/Product/view.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/Product/view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views/layouts/watches.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/watches.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/widgets/menu/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/menu/menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/widgets/menu/menu_tpl/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/menu/menu_tpl/menu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/megamenu" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/public/megamenu-js" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/megamenu-js/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/megamenu-js/js/megamenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js/js/megamenu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/menu/menu.php" beforeDir="false" afterPath="$PROJECT_DIR$/public/menu/menu.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Cache.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/base/Model.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/base/Model.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +103,7 @@
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/ishop/core" />
       <path value="$PROJECT_DIR$/vendor/gabordemooij/redbean" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/valitron" />
     </include_path>
   </component>
   <component name="ProjectId" id="1TyfXOThRQQQ8Vw2dkxHK1z7khm" />
@@ -85,19 +114,20 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="mariadb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/validator" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ishop.loc\public\validator" />
+      <recent name="C:\xampp\htdocs\ishop.loc\public\images" />
+      <recent name="C:\xampp\htdocs\ishop.loc\public\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\ishop.loc\public\megamenu-js\css" />
       <recent name="C:\xampp\htdocs\ishop.loc\public\menu" />
       <recent name="C:\xampp\htdocs\ishop.loc\app\widgets\menu" />
       <recent name="C:\xampp\htdocs\ishop.loc\app\widgets\menu\menu_tpl" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\ishop.loc\public\images" />
-      <recent name="C:\xampp\htdocs\ishop.loc\public\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -154,6 +184,7 @@
       <workItem from="1575115591392" duration="44428000" />
       <workItem from="1578661395082" duration="110000" />
       <workItem from="1578662115957" duration="51559000" />
+      <workItem from="1582036531575" duration="10909000" />
     </task>
     <task id="LOCAL-00001" summary="currency">
       <created>1578668585129</created>

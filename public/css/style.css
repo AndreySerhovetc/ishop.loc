@@ -1417,10 +1417,10 @@ a.mask {
 	padding:6em 0px;
 }
 .account-left h3 {
-	font-size: 1.7em;
-	color: #73b6e1;
-	margin: 0 0 0 0;
-	font-family: 'BreeSerif-Regular';
+    font-size: 1.7em;
+    color: #73b6e1;
+    margin: 0 0 0 0;
+    font-family: 'BreeSerif-Regular';
 }
 .account-top,.register-top{
 	text-align:center;
@@ -1429,54 +1429,54 @@ a.mask {
 	margin-top:4%;
 }
 .account-bottom {
-	margin-top: 2.2em;
+    margin-top: 2.2em;
 }
-.account-left input[type="text"],.account-left input[type="password"] {
-	width: 90%;
-	margin: 0px;
-	color: #000;
-	background: none;
-	padding: 8px 10px;
-	outline: none;
-	border: 1px solid #000;
-	font-family: 'Lato-Regular';
-	font-size: 14px;
+.account-left input[type="text"],.account-left input[type="password"],.account-left input[type="email"] {
+	/*--width: 90%;--*/
+    margin: 0px;
+    color: #000;
+    background: none;
+    padding: 8px 10px;
+    outline: none;
+    border: 1px solid #000;
+    font-family: 'Lato-Regular';
+    font-size: 14px;
 	margin-bottom:20px;
 }
 .address {
-	margin-top: 10px;
+    margin-top: 10px;
 }
 .submit{
 	margin:0 0 0 1em;
 }
 .address a {
-	font-size: 14px;
-	color: #666;
-	font-weight: 500;
-	font-family: 'Lato-Regular';
+    font-size: 14px;
+    color: #666;
+    font-weight: 500;
+    font-family: 'Lato-Regular';
 	margin-right: 20px;
 }
 .address input[type="submit"] {
-	background: #73B6E1;
-	color: #FFF;
-	font-size: 1em;
-	padding: 0.5em 1.2em;
-	transition: 0.5s all;
-	-webkit-transition: 0.5s all;
-	-moz-transition: 0.5s all;
-	-o-transition: 0.5s all;
-	display: inline-block;
-	text-transform: uppercase;
-	border: none;
-	outline: none;
+    background: #73B6E1;
+    color: #FFF;
+    font-size: 1em;
+    padding: 0.5em 1.2em;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
+    display: inline-block;
+    text-transform: uppercase;
+    border: none;
+    outline: none;
 	font-family: 'Lato-Regular';
 }
 .address input[type="submit"]:hover {
-	background: #000;
-	transition: 0.5s all;
-	-webkit-transition: 0.5s all;
-	-moz-transition: 0.5s all;
-	-o-transition: 0.5s all;
+    background: #000;
+    transition: 0.5s all;
+    -webkit-transition: 0.5s all;
+    -moz-transition: 0.5s all;
+    -o-transition: 0.5s all;
 }
 /*--account-end--*/
 /*--start-checkout--*/
@@ -2252,6 +2252,10 @@ h3.ghj {
 		float: left;
 	}
 	.account-left input[type="text"], .account-left input[type="password"] {
+		margin-bottom: 15px;
+		width: 95%;
+	}
+	.account-left input[type="email"], .account-left input[type="email"] {
 		margin-bottom: 15px;
 		width: 95%;
 	}
@@ -3183,3 +3187,23 @@ span.twitter-typeahead {
 	top: 46px !important;
 }
 /*search*/
+
+.drop >.btn-group > a{
+	color: #fff;
+	cursor: pointer;
+	position: relative;
+	top: -2px;
+}
+form .has-success .form-control{
+	border-color: green;
+}
+form .has-error .form-control{
+	border-color: red;
+}
+.has-error, .has-success{
+	position: relative;
+}
+.form-control-feedback {
+	right: 10px;
+	top: 25px;
+}
