@@ -3072,21 +3072,22 @@ h3.ghj {
 /*--media-quaries-end-here--*/
 
 /* new styles */
+
 .product-one > .product-left{
 	margin-bottom: 20px;
 }
 
-.quantityty{
-	margin-top: 1.9em;
+.quantity{
+	margin-top: 3em;
 	margin-right: 10px;
 	float: left;
-	
 }
 
-#cart table img {
+#cart img,
+.cart table img{
 	height: 50px;
-	
 }
+
 .del-item{
 	cursor: pointer;
 }

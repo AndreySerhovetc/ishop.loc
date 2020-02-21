@@ -33,10 +33,11 @@ class UserController extends AppController{
             $user = new User();
             if($user->login()){
                 $_SESSION['success'] = 'Вы успешно автопризованы';
+
             }else{
                 $_SESSION['error'] = 'логин/пароль введены не верно';
             }
-            redirect();
+         redirect();
         }
 
         $this->setMeta('Login');
