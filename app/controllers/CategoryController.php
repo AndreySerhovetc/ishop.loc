@@ -29,6 +29,13 @@ class CategoryController extends AppController {
         //пагинация
         $page = isset($_GET['page']) ? (int)$_GET['page'] : 1;
         $perpage = App::$app->getProperty('pagination');
+
+        //filter ajax
+        if($this->isAjax()){
+            debug($_GET);
+            die;
+        }
+
         $total = R::count('product', "category_id IN ($ids)");
         $pagination = new Pagination($page, $perpage, $total);
         $start = $pagination->getStart();

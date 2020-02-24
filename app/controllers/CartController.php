@@ -60,7 +60,8 @@ class CartController extends AppController {
     }
 
     public function checkoutAction(){
-        if(empty($_POST)){
+
+        if(!empty($_POST)){
             // регистрация пользователя
             if(!User::checkAuth()){
                 $user = new User();
@@ -79,8 +80,9 @@ class CartController extends AppController {
                 }
             }
 
+
             // сохранение заказа
-           $data['user_id'] = isset($user_id) ? $user_id : $_SESSION['user']['id'];
+            $data['user_id'] = isset($user_id) ? $user_id : $_SESSION['user']['id'];
             $data['note'] = !empty($_POST['note']) ? $_POST['note'] : '';
             $user_email = isset($_SESSION['user']['email']) ? $_SESSION['user']['email'] : $_POST['email'];
             $order_id = Order::saveOrder($data);

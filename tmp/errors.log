@@ -172,3 +172,204 @@
 =================
 [2020-02-21 16:51:53] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
 =================
+[2020-02-21 18:36:49] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'user_id' cannot be null | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+=================
+[2020-02-22 17:23:08] Текст ошибки: Failed to authenticate on SMTP server with username "ishop090@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 191
+=================
+[2020-02-22 17:25:37] Текст ошибки: Failed to authenticate on SMTP server with username "ishop090@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 191
+=================
+[2020-02-22 17:27:50] Текст ошибки: Connection could not be established with host smtp.ukr.net :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Строка: 269
+=================
+[2020-02-22 17:29:47] Текст ошибки: Failed to authenticate on SMTP server with username "ishop090@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 191
+=================
+[2020-02-22 17:33:12] Текст ошибки: Connection could not be established with host smtp.ukr.net :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Строка: 269
+=================
+[2020-02-22 17:38:06] Текст ошибки: Failed to authenticate on SMTP server with username "ishop090@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 191
+=================
+[2020-02-22 17:44:22] Текст ошибки: Connection could not be established with host smtp.ukr.net :stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:1416F086:SSL routines:tls_process_server_certificate:certificate verify failed | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\StreamBuffer.php | Строка: 269
+=================
+[2020-02-22 17:45:54] Текст ошибки: Failed to authenticate on SMTP server with username "ishop090@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
+". | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 191
+=================
+[2020-02-24 11:13:43] Текст ошибки: Call to undefined function app\widgets\filter\set() | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 27
+=================
+[2020-02-24 11:13:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:13:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:13:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:13:46] Текст ошибки: Call to undefined function app\widgets\filter\set() | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 27
+=================
+[2020-02-24 11:13:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:13:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:13:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:24:21] Текст ошибки: Call to undefined function app\widgets\filter\set() | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 27
+=================
+[2020-02-24 11:24:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:24:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:24:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:24:25] Текст ошибки: Call to undefined function app\widgets\filter\set() | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 27
+=================
+[2020-02-24 11:24:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:24:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:24:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:29:12] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 26
+=================
+[2020-02-24 11:29:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:29:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:29:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:48:31] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 27
+=================
+[2020-02-24 11:48:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:48:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:48:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:49:13] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 27
+=================
+[2020-02-24 11:49:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:49:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:49:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:49:33] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 27
+=================
+[2020-02-24 11:49:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:49:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:49:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:01] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 28
+=================
+[2020-02-24 11:51:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:07] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 28
+=================
+[2020-02-24 11:51:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:37] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 28
+=================
+[2020-02-24 11:51:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:51:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:53:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:54:09] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 28
+=================
+[2020-02-24 11:54:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:54:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:54:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:58:52] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 28
+=================
+[2020-02-24 11:58:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:58:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 11:58:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:05:24] Текст ошибки: Call to a member function get() on bool | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 28
+=================
+[2020-02-24 12:05:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:05:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:05:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:15:28] Текст ошибки: syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 24
+=================
+[2020-02-24 12:15:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:15:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:15:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:16:52] Текст ошибки: syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 24
+=================
+[2020-02-24 12:16:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:16:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:16:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:16:56] Текст ошибки: syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 24
+=================
+[2020-02-24 12:17:01] Текст ошибки: syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 24
+=================
+[2020-02-24 12:17:04] Текст ошибки: syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 24
+=================
+[2020-02-24 12:17:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:13] Текст ошибки: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 40
+=================
+[2020-02-24 12:33:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 38
+=================
+[2020-02-24 12:33:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 38
+=================
+[2020-02-24 12:33:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:33:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:34:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\widgets\filter\Filter.php | Строка: 38
+=================
+[2020-02-24 12:34:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:34:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-24 12:34:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
