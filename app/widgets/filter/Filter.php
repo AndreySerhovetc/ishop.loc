@@ -55,4 +55,13 @@ class Filter
         require $this->tpl;
         return ob_get_clean();
     }
+
+    public static function getFilter(){
+        $filter = null;
+        if(!empty($_GET['filter'])){
+            $filter = preg_replace("#[^\d,]+#", '', $_GET['filter']);
+            $filter = trim($filter, ',');
+        }
+        return $filter;
+    }
 }

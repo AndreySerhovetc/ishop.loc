@@ -373,3 +373,5 @@ error:1416F086:SSL routines:tls_process_server_certificate:certificate verify fa
 =================
 [2020-02-24 12:34:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
+[2020-02-25 12:00:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 16
+=================
