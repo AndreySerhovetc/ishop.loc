@@ -39,7 +39,7 @@
                                         <td><a href="product/<?=$item['alias'] ?>"><?=$item['title'] ?></a></td>
                                         <td><?=$item['qty'] ?></td>
                                         <td><?=$item['price'] ?></td>
-                                        <td><a href="cart/delete/?id=<?=$id ?>"><span data-id="<?=$id ?>" class="glyphicon glyphicon-remove text-danger del-item" aria-hidden="true"></span></a></td>
+                                        <td><a href="/cart/delete/?id=<?=$id ?>"><span data-id="<?=$id ?>" class="glyphicon glyphicon-remove text-danger del-item" aria-hidden="true"></span></a></td>
                                     </tr>
                                 <?php endforeach;?>
                                 <tr>
