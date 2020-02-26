@@ -9,6 +9,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <head>
     <base href="<?=PATH;?>/">
     <?=$this->getMeta();?>
+    <link rel="shortcut icon" href="images/star.png" type="image/png" />
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
     <link href="megamenu-js/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
     <link href="megamenu-js/css/style.css" rel="stylesheet" type="text/css" media="all" />

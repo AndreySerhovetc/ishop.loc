@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e366dc5c-b7a6-4702-aeb8-17f7f767edde" name="Default" comment="currency">
-      <change afterPath="$PROJECT_DIR$/app/views/Category/filter.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/controllers/CategoryController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/CategoryController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/watches.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/watches.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/widgets/filter/Filter.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/filter/Filter.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/widgets/filter/filter_tpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/widgets/filter/filter_tpl.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/megamenu-js" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/megamenu-js/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/megamenu-js/js/megamenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/megamenu-js/js/megamenu.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/0832c1202da8d382318e329a7c133ea0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/87443b1e6657e4d785ab83b6e0a1c0d9.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/9297fd88a237b4c249515d1022b29f09.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/cache/c799f92d1280fb7a5aefeba08b6fae16.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/c799f92d1280fb7a5aefeba08b6fae16.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/cache/d8f64461fa85104a39f2162f647f08aa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/cache/d8f64461fa85104a39f2162f647f08aa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tmp/cache/d8f64461fa85104a39f2162f647f08aa.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/libs/Pagination.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/libs/Pagination.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,16 +91,16 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\ishop.loc\public\validator" />
+      <recent name="C:\xampp\htdocs\ishop.loc\public\images" />
+      <recent name="C:\xampp\htdocs\ishop.loc\public\css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\xampp\htdocs\ishop.loc\public\megamenu-js\css" />
       <recent name="C:\xampp\htdocs\ishop.loc\public\menu" />
       <recent name="C:\xampp\htdocs\ishop.loc\app\widgets\menu" />
       <recent name="C:\xampp\htdocs\ishop.loc\app\widgets\menu\menu_tpl" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\ishop.loc\public\validator" />
-      <recent name="C:\xampp\htdocs\ishop.loc\public\images" />
-      <recent name="C:\xampp\htdocs\ishop.loc\public\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -163,7 +165,7 @@
       <workItem from="1582541103122" duration="13000" />
       <workItem from="1582541133916" duration="227000" />
       <workItem from="1582541957132" duration="23000" />
-      <workItem from="1582542359454" duration="11809000" />
+      <workItem from="1582542359454" duration="17407000" />
     </task>
     <task id="LOCAL-00001" summary="currency">
       <created>1578668585129</created>

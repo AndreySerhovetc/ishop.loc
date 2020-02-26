@@ -375,3 +375,5 @@ error:1416F086:SSL routines:tls_process_server_certificate:certificate verify fa
 =================
 [2020-02-25 12:00:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 16
 =================
+[2020-02-26 12:01:13] Текст ошибки: Call to undefined method app\widgets\filter\Filter::getCountGroup() | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CategoryController.php | Строка: 41
+=================
