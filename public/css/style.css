@@ -2482,6 +2482,11 @@ h3.ghj {
 	}
 }
 @media (max-width:480px){
+	.btn-group.dropdown-toggle a{
+		font-size: 10px;
+	}
+}
+@media (max-width:480px){
 	.dropdown .selected, .dropdown li {
 		font-size: 10px;
 	}

@@ -933,3 +933,969 @@ error:1416F086:SSL routines:tls_process_server_certificate:certificate verify fa
 =================
 [2020-02-27 15:15:03] Текст ошибки: syntax error, unexpected '?>' | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 716
 =================
+[2020-02-28 13:46:36] Текст ошибки: Метод app\controllers\UserController::adminAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-28 13:46:57] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
+=================
+[2020-02-28 15:37:06] Текст ошибки: syntax error, unexpected '{', expecting '(' | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\admin\UserController.php | Строка: 8
+=================
+[2020-02-28 15:50:00] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/login-admin.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-28 15:50:14] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/login-admin.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-28 15:50:19] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/login-admin.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-28 15:50:26] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/login-admin.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-28 15:50:31] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/login-admin.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-28 15:50:47] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/login-admin.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-28 15:50:51] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/login-admin.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:07] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 15:53:09] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:01:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:29] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:04:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:05:18] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:06:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:02] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:07:52] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:08:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:12:46] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:11] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:13:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:33] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:54] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:14:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:16:15] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:18:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:38] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:23:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:24:12] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:26:26] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:27:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:17] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:28:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:20] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:34:58] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:37:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:38:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:38:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:38:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:38:04] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:39:39] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:39:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:40:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:40:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:40:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:40:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:40:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:47:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:47:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:47:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:47:51] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:57:42] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:58:59] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 16:59:49] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:01:24] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:02:22] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2020-02-28 17:45:01] Текст ошибки: Метод app\controllers\UserController::loginAdminAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-28 17:45:32] Текст ошибки: Метод app\controllers\UserController::loginAdminAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-28 17:45:35] Текст ошибки: Метод app\controllers\UserController::loginAdminAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-28 17:45:57] Текст ошибки: Метод app\controllers\UserController::loginAdminAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-28 17:46:08] Текст ошибки: Метод app\controllers\UserController::adminAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-28 17:46:24] Текст ошибки: Метод app\controllers\UserController::loginAdminAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-28 18:09:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+=================
+[2020-02-28 18:11:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-28 18:12:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-28 18:12:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-28 18:12:31] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:19:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:19:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:19:15] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:19:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:20:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:20:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:31:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:31:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:32:31] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:33:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:33:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:33:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:40:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:42:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:42:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:46:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:46:27] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:46:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:46:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:47:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:47:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:48:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:48:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:50:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:50:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:50:56] Текст ошибки: Метод app\controllers\admin\UserController::indexAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2020-02-29 11:50:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:53:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:53:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:56:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:56:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:56:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
+[2020-02-29 11:56:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+=================
