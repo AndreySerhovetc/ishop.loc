@@ -6,6 +6,20 @@ use ishop\App;
 use \RedBeanPHP\R;
 class Category extends AppModel{
 
+    public $attributes = [              //валидация в добавлении категории
+        'title' => '',
+        'parent_id' => '',
+        'keywords' => '',
+        'description' => '',
+        'alias' => '',
+    ];
+
+    public $rules = [
+        'required' => [
+            ['title'],
+        ]
+    ];
+
     public function getIds($id){
         $cats = App::$app->getProperty('cats');
         $ids = null;
