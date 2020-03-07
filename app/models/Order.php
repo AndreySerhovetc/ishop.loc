@@ -12,12 +12,15 @@ class Order extends AppModel
 {
     public static function saveOrder($data){
         $order = R::dispense('order');
-        $order->user_id = $data['user_id'];
+        $order->user_id = !empty($_SESSION['user']['id']) ? $_SESSION['user']['id'] : null;
         $order->currency = $_SESSION['cart.currency']['code'];
+        $order->note = !empty($_SESSION['note']) ? $_SESSION['note'] : '';
         $order_id = R::store($order);
         self::saveOrderProduct($order_id);
         return $order_id;
+
     }
+
 
     public static function saveOrderProduct($order_id){
         $sql_part = '';
