@@ -1,4 +1,3 @@
-
 <!-- Content Header (Page header) -->
 <section class="content-header">
     <h1>
@@ -30,22 +29,19 @@
                             </thead>
                             <tbody>
                             <?php foreach($users as $user): ?>
-                                <tr>
                                     <td><?=$user->id;?></td>
                                     <td><?=$user->login;?></td>
                                     <td><?=$user->email;?></td>
                                     <td><?=$user->name;?></td>
                                     <td><?=$user->role;?></td>
-                                    <td><a href="<?=ADMIN;?>/user/edit?id=<?=$user->id;?>"><i class="fa fa-fw fa-pencil"></i></a>
-                                        <a class="delete" href="<?=ADMIN;?>/user/delete?id=<?=$user['id'];?>"><i class="fa fa-fw fa-close text-danger"></i></a></td>
-                                    </td>
+                                    <td><a href="<?=ADMIN;?>/user/edit?id=<?=$user->id;?>"><i class="fa fa-fw fa-eye"></i></a></td>
                                 </tr>
                             <?php endforeach; ?>
                             </tbody>
                         </table>
                     </div>
                     <div class="text-center">
-                        <p>(<?=count($users);?> заказа(ов) из <?=$count;?>)</p>
+                        <p>(<?=count($users);?> пользователей из <?=$count;?>)</p>
                         <?php if($pagination->countPages > 1): ?>
                             <?=$pagination;?>
                         <?php endif; ?>

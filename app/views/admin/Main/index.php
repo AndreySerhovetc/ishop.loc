@@ -16,14 +16,13 @@
             <!-- small box -->
             <div class="small-box bg-aqua">
                 <div class="inner">
-                    <h3><?=$countNewOrder;?></h3>
-
-                    <p>Заказы</p>
+                    <h3><?=$countNewOrders;?></h3>
+                    <p>New Orders</p>
                 </div>
                 <div class="icon">
                     <i class="ion ion-bag"></i>
                 </div>
-                <a href="<?=ADMIN?>/order" class="small-box-footer">Все заказы <i class="fa fa-arrow-circle-right"></i></a>
+                <a href="<?=ADMIN;?>/order" class="small-box-footer">Все заказы <i class="fa fa-arrow-circle-right"></i></a>
             </div>
         </div>
         <!-- ./col -->
@@ -31,14 +30,13 @@
             <!-- small box -->
             <div class="small-box bg-green">
                 <div class="inner">
-                    <h3><?=$countProducts;?></h3>
-
-                    <p>Товаров</p>
+                    <h3><?=$countProducts?></h3>
+                    <p>Product</p>
                 </div>
                 <div class="icon">
                     <i class="ion ion-stats-bars"></i>
                 </div>
-                <a href="<?=ADMIN?>/product" class="small-box-footer">Все товары <i class="fa fa-arrow-circle-right"></i></a>
+                <a href="<?=ADMIN;?>/product" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
             </div>
         </div>
         <!-- ./col -->
@@ -47,13 +45,12 @@
             <div class="small-box bg-yellow">
                 <div class="inner">
                     <h3><?=$countUsers;?></h3>
-
-                    <p>Зарегистрированые пользователи</p>
+                    <p>User Registrations</p>
                 </div>
                 <div class="icon">
                     <i class="ion ion-person-add"></i>
                 </div>
-                <a href="<?=ADMIN?>/user" class="small-box-footer">Все пользователи <i class="fa fa-arrow-circle-right"></i></a>
+                <a href="<?=ADMIN;?>/user" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
             </div>
         </div>
         <!-- ./col -->
@@ -61,14 +58,13 @@
             <!-- small box -->
             <div class="small-box bg-red">
                 <div class="inner">
-                    <h3><?=$countCategories?></h3>
-
-                    <p>Категории</p>
+                    <h3><?=$countCategories;?></h3>
+                    <p>Categories</p>
                 </div>
                 <div class="icon">
                     <i class="ion ion-pie-graph"></i>
                 </div>
-                <a href="<?=ADMIN?>/category" class="small-box-footer">Все категории <i class="fa fa-arrow-circle-right"></i></a>
+                <a href="<?=ADMIN;?>/category" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a>
             </div>
         </div>
         <!-- ./col -->

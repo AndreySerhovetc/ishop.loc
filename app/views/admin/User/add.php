@@ -15,7 +15,7 @@
     <div class="row">
         <div class="col-md-12">
             <div class="box">
-                <form method="post" action="<?=PATH; ?>/user/signup" role="form" data-toggle="validator">
+                <form method="post" action="/user/signup" role="form" data-toggle="validator">
                     <div class="box-body">
                         <div class="form-group has-feedback">
                             <label for="login">Логин</label>

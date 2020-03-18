@@ -1,16 +1,15 @@
 <?php
 namespace app\models;
 
-use RedBeanPHP\R;
+class User extends AppModel {
 
-class User extends AppModel{
     public $attributes = [
         'login' => '',
         'password' => '',
         'name' => '',
         'email' => '',
         'address' => '',
-        'role'=>'user',
+        'role' => 'user',
     ];
 
     public $rules = [
@@ -29,15 +28,13 @@ class User extends AppModel{
         ]
     ];
 
-    public function checkUnique()
-    {
-        $user = R::findOne('user', 'login = ? OR email = ?',
-            [$this->attributes['login'], $this->attributes['email']]);
-        if ($user) {
-            if ($user->login == $this->attributes['login']) {
+    public function checkUnique(){
+        $user = \R::findOne('user', 'login = ? OR email = ?', [$this->attributes['login'], $this->attributes['email']]);
+        if($user){
+            if($user->login == $this->attributes['login']){
                 $this->errors['unique'][] = 'Этот логин уже занят';
             }
-            if ($user->email == $this->attributes['email']) {
+            if($user->email == $this->attributes['email']){
                 $this->errors['unique'][] = 'Этот email уже занят';
             }
             return false;
@@ -50,14 +47,14 @@ class User extends AppModel{
         $password = !empty(trim($_POST['password'])) ? trim($_POST['password']) : null;
         if($login && $password){
             if($isAdmin){
-                $user = R::findOne('user', "login = ? AND login = 'admin'", [$login]);
+                $user = \R::findOne('user', "login = ? AND role = 'admin'", [$login]);
             }else{
-                $user = R::findOne('user', "login = ? ", [$login]);
+                $user = \R::findOne('user', "login = ?", [$login]);
             }
             if($user){
                 if(password_verify($password, $user->password)){
-                    foreach($user as $k=>$v){
-                        if($k!='password') $_SESSION['user'][$k] = $v;
+                    foreach($user as $k => $v){
+                        if($k != 'password') $_SESSION['user'][$k] = $v;
                     }
                     return true;
                 }
@@ -71,7 +68,7 @@ class User extends AppModel{
     }
 
     public static function isAdmin(){
-        return (isset($_SESSION['user']) && $_SESSION['user']['role'] =='admin');
+        return (isset($_SESSION['user']) && $_SESSION['user']['role'] == 'admin');
     }
 
 }

@@ -6,15 +6,13 @@ use app\models\Breadcrumbs;
 use app\models\Category;
 use app\widgets\filter\Filter;
 use ishop\App;
-use ishop\Cache;
 use ishop\libs\Pagination;
-use RedBeanPHP\R;
 
 class CategoryController extends AppController {
 
     public function viewAction(){
         $alias = $this->route['alias'];
-        $category = R::findOne('category', 'alias = ?', [$alias]);
+        $category = \R::findOne('category', 'alias = ?', [$alias]);
         if(!$category){
             throw new \Exception('Страница не найдена', 404);
         }
@@ -33,21 +31,21 @@ class CategoryController extends AppController {
             /*
             SELECT `product`.*  FROM `product`  WHERE category_id IN (6) AND id IN
             (
-            SELECT product_id FROM attribute_product WHERE attr_id IN (1,5)
+            SELECT product_id FROM attribute_product WHERE attr_id IN (1,5) GROUP BY product_id HAVING COUNT(product_id) = 2
             )
             */
             $filter = Filter::getFilter();
             if($filter){
                 $cnt = Filter::getCountGroups($filter);
+                $sql_part = "AND id IN (SELECT product_id FROM attribute_product WHERE attr_id IN ($filter) GROUP BY product_id HAVING COUNT(product_id) = $cnt)";
             }
-            $sql_part = "AND id IN (SELECT product_id FROM attribute_product WHERE attr_id IN ($filter)GROUP BY product_id HAVING COUNT(product_id) = $cnt)";
         }
 
-        $total = R::count('product', "category_id IN ($ids) $sql_part");
+        $total = \R::count('product', "category_id IN ($ids) $sql_part");
         $pagination = new Pagination($page, $perpage, $total);
         $start = $pagination->getStart();
 
-        $products = R::find('product', "category_id IN ($ids) $sql_part LIMIT $start, $perpage");
+        $products = \R::find('product', "category_id IN ($ids) $sql_part LIMIT $start, $perpage");
 
         if($this->isAjax()){
             $this->loadView('filter', compact('products', 'total', 'pagination'));

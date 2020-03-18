@@ -15,13 +15,13 @@
         <div class="col-md-12">
             <div class="box">
                 <div class="box-body">
-                   <?php new \app\widgets\menu\Menu([
+                    <?php new \app\widgets\menu\Menu([
                         'tpl' => WWW . '/menu/category_admin.php',
                         'container' => 'div',
                         'cache' => 0,
                         'cacheKey' => 'admin_cat',
                         'class' => 'list-group list-group-root well',
-                   ])?>
+                    ]) ?>
                 </div>
             </div>
         </div>

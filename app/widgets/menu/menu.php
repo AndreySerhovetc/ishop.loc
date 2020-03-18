@@ -1,15 +1,13 @@
 <?php
 
-
 namespace app\widgets\menu;
-
 
 use ishop\App;
 use ishop\Cache;
-use RedBeanPHP\R;
+use RedUNIT\Base\Threeway;
 
-class Menu
-{
+class Menu{
+
     protected $data;
     protected $tree;
     protected $menuHtml;
@@ -22,15 +20,14 @@ class Menu
     protected $attrs = [];
     protected $prepend = '';
 
-    public function __construct($options = [])
-    {
-        $this->tpl = __DIR__ .'/menu_tpl/menu.php';
+    public function __construct($options = []){
+        $this->tpl = __DIR__ . '/menu_tpl/menu.php';
         $this->getOptions($options);
         $this->run();
     }
 
     protected function getOptions($options){
-        foreach ($options as $k => $v) {
+        foreach($options as $k => $v){
             if(property_exists($this, $k)){
                 $this->$k = $v;
             }
@@ -43,7 +40,7 @@ class Menu
         if(!$this->menuHtml){
             $this->data = App::$app->getProperty('cats');
             if(!$this->data){
-                $this->data = $cats = R::getAssoc("SELECT * FROM {$this->table}");
+                $this->data = $cats = \R::getAssoc("SELECT * FROM {$this->table}");
             }
             $this->tree = $this->getTree();
             $this->menuHtml = $this->getMenuHtml($this->tree);
@@ -53,6 +50,7 @@ class Menu
         }
         $this->output();
     }
+
     protected function output(){
         $attrs = '';
         if(!empty($this->attrs)){
@@ -61,8 +59,8 @@ class Menu
             }
         }
         echo "<{$this->container} class='{$this->class}' $attrs>";
-        echo $this->prepend;
-        echo $this->menuHtml;
+            echo $this->prepend;
+            echo $this->menuHtml;
         echo "</{$this->container}>";
     }
 
@@ -92,4 +90,5 @@ class Menu
         require $this->tpl;
         return ob_get_clean();
     }
+
 }

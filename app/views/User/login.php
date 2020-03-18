@@ -17,7 +17,7 @@
             <div class="col-md-12">
                 <div class="product-one login">
                     <div class="register-top heading">
-                        <h2>LOGIN</h2>
+                        <h2>Вход</h2>
                     </div>
 
                     <div class="register-main">

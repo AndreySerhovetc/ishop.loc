@@ -14,7 +14,7 @@
             </div>
         <?php endif; ?>
 
-        <form action="<?=ADMIN;?>/User/login-admin" method="post">
+        <form action="<?=ADMIN;?>/user/login-admin" method="post">
             <div class="form-group has-feedback">
                 <input name="login" type="text" class="form-control" placeholder="Login">
                 <span class="glyphicon glyphicon-user form-control-feedback"></span>

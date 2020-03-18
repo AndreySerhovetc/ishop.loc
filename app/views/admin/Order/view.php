@@ -25,38 +25,38 @@
                     <div class="table-responsive">
                         <table class="table table-bordered table-hover">
                             <tbody>
-                            <tr>
-                                <td>Номер заказа</td>
-                                <td><?=$order['id'];?></td>
-                            </tr>
-                            <tr>
-                                <td>Дата заказа</td>
-                                <td><?=$order['date'];?></td>
-                            </tr>
-                            <tr>
-                                <td>Дата изменения</td>
-                                <td><?=$order['update_at'];?></td>
-                            </tr>
-                            <tr>
-                                <td>Кол-во позиций в заказе</td>
-                                <td><?=count($order_products);?></td>
-                            </tr>
-                            <tr>
-                                <td>Сумма заказа</td>
-                                <td><?=$order['sum'];?> <?=$order['currency'];?></td>
-                            </tr>
-                            <tr>
-                                <td>Имя заказчика</td>
-                                <td><?=$order['name'];?></td>
-                            </tr>
-                            <tr>
-                                <td>Статус</td>
-                                <td><?=$order['status'] ? 'Завершен' : 'Новый';?></td>
-                            </tr>
-                            <tr>
-                                <td>Комментарий</td>
-                                <td><?=$order['note'];?></td>
-                            </tr>
+                                <tr>
+                                    <td>Номер заказа</td>
+                                    <td><?=$order['id'];?></td>
+                                </tr>
+                                <tr>
+                                    <td>Дата заказа</td>
+                                    <td><?=$order['date'];?></td>
+                                </tr>
+                                <tr>
+                                    <td>Дата изменения</td>
+                                    <td><?=$order['update_at'];?></td>
+                                </tr>
+                                <tr>
+                                    <td>Кол-во позиций в заказе</td>
+                                    <td><?=count($order_products);?></td>
+                                </tr>
+                                <tr>
+                                    <td>Сумма заказа</td>
+                                    <td><?=$order['sum'];?> <?=$order['currency'];?></td>
+                                </tr>
+                                <tr>
+                                    <td>Имя заказчика</td>
+                                    <td><?=$order['name'];?></td>
+                                </tr>
+                                <tr>
+                                    <td>Статус</td>
+                                    <td><?=$order['status'] ? 'Завершен' : 'Новый';?></td>
+                                </tr>
+                                <tr>
+                                    <td>Комментарий</td>
+                                    <td><?=$order['note'];?></td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>
@@ -85,13 +85,13 @@
                                     <td><?=$product->price;?></td>
                                 </tr>
                             <?php endforeach; ?>
-                            <tr class="active">
-                                <td colspan="2">
-                                    <b>Итого:</b>
-                                </td>
-                                <td><b><?=$qty;?></b></td>
-                                <td><b><?=$order['sum'];?> <?=$order['currency'];?></b></td>
-                            </tr>
+                                <tr class="active">
+                                    <td colspan="2">
+                                        <b>Итого:</b>
+                                    </td>
+                                    <td><b><?=$qty;?></b></td>
+                                    <td><b><?=$order['sum'];?> <?=$order['currency'];?></b></td>
+                                </tr>
                             </tbody>
                         </table>
                     </div>

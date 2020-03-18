@@ -32,13 +32,9 @@
                                     <?php endif; ?>
                                 </h4>
                             </div>
-                             <?php if($product['old_price']): ?>
-                                    <?php $sale = 100 - ($product['price'] * 100 / $product['old_price']);?>
-
-                                    <div class="srch">
-                                        <span>-<?php echo round($sale);?>%</span>
-                                    </div>
-                             <?php endif;?>
+                            <div class="srch srch1">
+                                <span>-50%</span>
+                            </div>
                         </div>
                     </div>
                     <?php endforeach; ?>

@@ -1,1536 +1,175 @@
-[2020-03-03 11:42:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:23:47] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2020-03-03 11:42:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:23:47] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 11:42:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:23:47] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 11:42:40] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\admin\AppController.php | Строка: 30
+[2017-09-07 19:26:12] Текст ошибки: Контроллер app\controllers\admin\MainController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2020-03-03 11:42:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 11:53:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 11:54:01] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\admin\AppController.php | Строка: 30
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 12:08:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:14:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:14:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:15:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:15:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:44:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:45:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:45:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:45:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:46:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:46:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:47:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:49:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:52:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:53:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:54:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:55:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:56:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:56:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:56:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:56:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:57:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:57:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:57:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:58:56] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:59:08] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:59:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:59:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:59:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 13:59:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:00:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:00:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:00:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:00:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:03:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:04:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:10:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:11:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 592
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:14:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 578
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:14:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 578
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:14:35] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:14:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 578
+[2017-09-07 19:44:08] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:15:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 578
+[2017-09-07 19:44:09] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:15:40] Текст ошибки: Метод app\controllers\admin\UserController::editAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+[2017-09-07 19:44:09] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:15:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 578
+[2017-09-07 19:44:09] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:35:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 578
+[2017-09-09 08:25:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:35:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 578
+[2017-09-09 08:25:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:43:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:29:04] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:54:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:53:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:54:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:53:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:54:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:53:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:55:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:53:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:55:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:53:54] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:55:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:55:43] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:56:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:55:43] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:56:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:55:43] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 14:56:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 591
+[2017-09-09 08:55:43] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:00:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 08:55:44] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:00:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 09:05:33] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2020-03-03 15:00:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 09:17:47] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2020-03-03 15:04:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 09:17:53] Текст ошибки: Контроллер app\controllers\admin\OrderController не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 36
 =================
-[2020-03-03 15:04:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 11:34:53] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:04:49] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
+[2017-09-09 11:34:53] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:04:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 11:36:56] Текст ошибки: Метод app\controllers\admin\OrderController::viewAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
 =================
-[2020-03-03 15:15:39] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'update' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
+[2017-09-09 11:42:31] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка: 29
 =================
-[2020-03-03 15:15:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 12:28:34] Текст ошибки: Метод app\controllers\admin\OrderController::deleteAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
 =================
-[2020-03-03 15:16:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 14:04:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:16:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 14:04:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:16:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 15:37:39] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:16:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-09 15:37:39] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:16:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-10 08:58:27] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:20:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 593
+[2017-09-10 08:58:27] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:23:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-10 09:55:00] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(SUM(`order_product`.`price`), 2) AS `sum` FROM `order`
+  JOIN `order_product` ' at line 1 | Файл: D:\WebServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
 =================
-[2020-03-03 15:23:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-10 11:39:55] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:23:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-10 15:34:36] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:24:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-10 15:34:36] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:24:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-11 18:56:22] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:24:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-11 19:01:40] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: D:\WebServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 186
 =================
-[2020-03-03 15:24:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-11 19:18:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
-[2020-03-03 15:24:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-03 15:25:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-03 15:25:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-03 15:27:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:27:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\admin\OrderController.php | Строка: 43
-=================
-[2020-03-03 15:27:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:27:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:27:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:27:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:27:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:29:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:29:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:29:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:30:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:30:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:32:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:32:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:33:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:36:15] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:36:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:36:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:36:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:51:31] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:51:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:52:15] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:52:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:52:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:54:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 15:54:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:04:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:04:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:04:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:06:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:07:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:07:08] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:07:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:07:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:07:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:07:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:08:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:09:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:29:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:29:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:29:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:29:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:32:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:32:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:37:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:37:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\admin\OrderController.php | Строка: 55
-=================
-[2020-03-03 16:37:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:45:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:45:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:46:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:47:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-03 16:47:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 14:24:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 14:54:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 14:56:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 14:56:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:10:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:10:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:29:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:29:38] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
-=================
-[2020-03-04 15:29:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:29:44] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'product_id' in 'where clause' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-04 15:29:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:31:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:31:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:32:11] Текст ошибки: Метод app\controllers\admin\CategoryController::editAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
-=================
-[2020-03-04 15:32:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:32:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:57:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:57:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:57:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:57:59] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
-=================
-[2020-03-04 15:58:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:35] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:58:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 15:59:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:00:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:00:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:00:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:00:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:00:59] Текст ошибки: Контроллер app\controllers\admin\CacheController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
-=================
-[2020-03-04 16:01:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:01:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:01:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:01:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:01:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:01:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:05:30] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:05:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:05:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:05:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:05:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:06:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:06:54] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 0 -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-04 16:07:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:07:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:07:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:07:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:08:11] Текст ошибки: Failed to authenticate on SMTP server with username "ishop090@ukr.net" using 2 possible authenticators. Authenticator LOGIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
-". Authenticator PLAIN returned Expected response code 235 but got code "535", with message "535 Incorrect authentication data
-". | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\Esmtp\AuthHandler.php | Строка: 191
-=================
-[2020-03-04 16:14:37] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-04 16:15:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:15:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:15:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:15:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:17:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:17:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:17:30] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:17:35] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:19:09] Текст ошибки: syntax error, unexpected '?>' | Файл: C:\xampp\htdocs\ishop.loc\app\views\admin\Main\index.php | Строка: 20
-=================
-[2020-03-04 16:19:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:19:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:19:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:20:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:21:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:21:30] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:21:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:23:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:23:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:25:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:25:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:25:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:26:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:27:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:27:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:27:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:27:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:28:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:28:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:28:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:38:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:39:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:39:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:39:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:39:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:40:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:40:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:43:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:44:36] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM `order` WHERE `status` IS NULL  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-04 16:45:30] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM `order` WHERE `status` IS NULL  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-04 16:45:32] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM `order` WHERE `status` IS NULL  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-04 16:45:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:45:35] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM `order` WHERE `status` IS NULL  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-04 16:45:37] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'SELECT * FROM `order` WHERE `status` IS NULL  -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-04 16:46:15] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:46:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:49:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:50:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:50:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:50:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:50:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:50:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:50:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-04 16:52:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:40:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:40:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:40:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:40:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:41:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:41:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:41:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:42:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:44:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:44:27] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:44:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:44:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:44:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:44:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:44:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:46:57] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0 -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-05 14:47:43] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0 -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-05 14:47:45] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ''0 -- keep-cache' at line 1 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-05 14:48:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:48:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:48:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:48:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:50:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:50:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:50:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:50:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:50:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:50:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 14:50:27] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:30] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:02:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:03:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:03:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 594
-=================
-[2020-03-05 15:05:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:05:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:05:48] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:05:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:05:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:05:50] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:06:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:06:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:06:05] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:06:31] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:06:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:06:31] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:08:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:09:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:10:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:10:14] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:10:21] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:10:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:10:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:11:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:11:41] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:12:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:12:31] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:13:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:14:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:14:10] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:14:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:15:08] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:16:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:17:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:17:25] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-05 15:17:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:17:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:17:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:46:06] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:46:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:46:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:46:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:46:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 15:51:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:31:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:31:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:34:35] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:34:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:34:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:34:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:53:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-05 16:53:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:00:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:00:28] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-06 15:01:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:01:25] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'discription' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 15:03:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:03:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\models\AppModel.php | Строка: 14
-=================
-[2020-03-06 15:03:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:03:58] Текст ошибки: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'alias' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 15:05:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:05:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:05:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:05:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:06:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:06:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:36:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:37:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:37:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:00] Текст ошибки: Контроллер app\controllers\admin\CategotyController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
-=================
-[2020-03-06 15:38:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:06] Текст ошибки: Контроллер app\controllers\admin\CategotyController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
-=================
-[2020-03-06 15:38:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:42] Текст ошибки: Контроллер app\controllers\admin\CategotyController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
-=================
-[2020-03-06 15:38:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:38:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:39:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:39:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:39:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:39:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:41:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:41:05] Текст ошибки: Контроллер app\controllers\admin\CategotyController не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 36
-=================
-[2020-03-06 15:41:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:41:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:41:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:41:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:45:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:45:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:45:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:45:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:46:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:46:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:46:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:46:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 15:47:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:14:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:14:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:15:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:15:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:15:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:15:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:15:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:37:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:48:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:49:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:49:08] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:49:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:49:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:56:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:56:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:57:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:57:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:57:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:57:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:59:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 16:59:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:00:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:01:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:42:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:42:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:42:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:43:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:43:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:43:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:43:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:43:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:43:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:46:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:46:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:49:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:49:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 17:50:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:13:43] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-06 18:13:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:13:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:13:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:14:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:14:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:14:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:14:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:14:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:32:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:32:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 18:32:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 19:43:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 19:43:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 19:43:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 19:44:27] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 19:48:30] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 19:50:30] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 19:54:10] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 19:54:44] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 19:58:20] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 20:11:10] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 20:12:01] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 20:27:24] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 20:28:34] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 20:28:47] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 20:48:31] Текст ошибки: Too few arguments to function app\models\Order::saveOrderProduct(), 0 passed in C:\xampp\htdocs\ishop.loc\app\models\Order.php on line 19 and exactly 1 expected | Файл: C:\xampp\htdocs\ishop.loc\app\models\Order.php | Строка: 30
-=================
-[2020-03-06 20:50:21] Текст ошибки: Too few arguments to function app\models\Order::saveOrderProduct(), 0 passed in C:\xampp\htdocs\ishop.loc\app\models\Order.php on line 19 and exactly 1 expected | Файл: C:\xampp\htdocs\ishop.loc\app\models\Order.php | Строка: 30
-=================
-[2020-03-06 21:02:34] Текст ошибки: Expected response code 354 but got code "503", with message "503-All RCPT commands were rejected with this error:
-503-Temporary local problem - please try later
-503 Valid RCPT command must precede DATA
-" | Файл: C:\xampp\htdocs\ishop.loc\vendor\swiftmailer\swiftmailer\lib\classes\Swift\Transport\AbstractSmtpTransport.php | Строка: 457
-=================
-[2020-03-06 21:14:39] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 21:18:54] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 21:26:09] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 21:28:15] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 21:29:19] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 21:58:49] Текст ошибки: syntax error, unexpected 'redirect' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) | Файл: C:\xampp\htdocs\ishop.loc\app\controllers\CartController.php | Строка: 84
-=================
-[2020-03-06 22:15:13] Текст ошибки: Страница не найдена | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 39
-=================
-[2020-03-06 22:17:56] Текст ошибки: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'note' in 'field list' | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-06 22:26:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 22:26:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-06 22:26:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 19:32:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 19:34:54] Текст ошибки: Не найден вид C:\xampp\htdocs\ishop.loc/app/views/admin\User/edit.php | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\base\View.php | Строка: 43
-=================
-[2020-03-07 19:34:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:10:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:10:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:12:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:13:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:15:30] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:16:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:16:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:16:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:16:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:16:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:17:15] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:17:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:30:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:30:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:30:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:35] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:31:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:32:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:34:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:35:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:35:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:35:08] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:35:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:37:06] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:37:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:37:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:06] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:15] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:38:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:06] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:42:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:43:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:40] Текст ошибки: Метод app\controllers\admin\UserController::addAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
-=================
-[2020-03-07 20:45:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:45:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:47:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:47:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:48:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:11] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:34] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:40] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:49:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:50:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:50:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:51:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:51:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:51:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:51:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:51:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:51:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:28] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:30] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:31] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:36] Текст ошибки: Метод app\controllers\admin\UserController::addAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
-=================
-[2020-03-07 20:53:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:53:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:55:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:55:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:55:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:55:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:55:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:55:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:16] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:25] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:30] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:35] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:56:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:57:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:57:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:57:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:57:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:57:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:57:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:57:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:58:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:58:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 20:58:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:05:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:33] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:06:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:07:06] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:07:11] Текст ошибки: Метод app\controllers\admin\UserController::addAction не найден | Файл: C:\xampp\htdocs\ishop.loc\vendor\ishop\core\Router.php | Строка: 33
-=================
-[2020-03-07 21:07:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:07:15] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:07:18] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:07:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:07:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:27] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:31] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:11:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:29] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:36] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:12:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:14] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:21] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:32] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:13:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:14:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:14:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:17:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:17:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:17:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:18:08] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:18:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:22:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:23:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:23:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:23:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:24:33] Текст ошибки: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE user_id = 33;
-        GROUP BY `order`.`id` ORDER BY `order`.`status`, `o' at line 4 | Файл: C:\xampp\htdocs\ishop.loc\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 194
-=================
-[2020-03-07 21:25:37] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:25:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:25:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:25:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:25:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:25:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 21:26:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:09:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:09:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:10:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:10:12] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:10:19] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:10:22] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:11:06] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:12:05] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:12:39] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:12:44] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:12:47] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:12:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:12:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:12:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:13:35] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:13:56] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:14:06] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:22:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:22:49] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:23:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:23:54] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:24:04] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:24:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:24:48] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:25:08] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:25:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:25:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:25:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:28:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:31:27] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:31:50] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:36:09] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:36:13] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:37:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:37:26] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:38:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:38:42] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:39:46] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:39:52] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:42:10] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:42:17] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:42:20] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:42:23] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:42:24] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:42:38] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:42:41] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:43:43] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:43:45] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:43:51] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:43:58] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:44:53] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:44:55] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:44:57] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:44:59] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:45:00] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:45:01] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:45:02] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:45:03] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
-=================
-[2020-03-07 22:45:07] Текст ошибки: Class 'R' not found | Файл: C:\xampp\htdocs\ishop.loc\app\views\layouts\admin.php | Строка: 595
+[2017-09-11 19:46:18] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================

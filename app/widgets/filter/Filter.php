@@ -1,53 +1,36 @@
 <?php
+
 namespace app\widgets\filter;
 
-
 use ishop\Cache;
-use RedBeanPHP\R;
 
-class Filter
-{
+class Filter{
+
     public $groups;
     public $attrs;
     public $tpl;
+    public $filter;
 
-    public function __construct()
-    {
-        $this->tpl = __DIR__ . '/filter_tpl.php';
+    public function __construct($filter = null, $tpl = ''){
+        $this->filter = $filter;
+        $this->tpl = $tpl ?: __DIR__ . '/filter_tpl.php';
         $this->run();
-
     }
 
-    protected function run()
-    {
-        $cache = new Cache();
+    protected function run(){
+        $cache = Cache::instance();
         $this->groups = $cache->get('filter_group');
-        if (!$this->groups) {
+        if(!$this->groups){
             $this->groups = $this->getGroups();
-            $cache->set('filter_group', $this->groups, 1);
+            $cache->set('filter_group', $this->groups, 30);
         }
         $this->attrs = $cache->get('filter_attrs');
-        if (!$this->attrs) {
+        if(!$this->attrs){
             $this->attrs = self::getAttrs();
-            $cache->set('filter_attrs', $this->attrs, 1);
+            $cache->set('filter_attrs', $this->attrs, 30);
         }
         $filters = $this->getHtml();
         echo $filters;
-    }
-
-    protected function getGroups()
-    {
-        return R::getAssoc('SELECT id, title FROM attribute_group');
-    }
-
-    protected static function getAttrs()
-    {
-        $data = R::getAssoc('SELECT * FROM attribute_value');
-        $attrs = [];
-        foreach ($data as $k => $v) {
-            $attrs[$v['attr_group_id']][$k] = $v['value'];
-        }
-        return $attrs;
     }
 
     protected function getHtml(){
@@ -58,6 +41,19 @@ class Filter
         }
         require $this->tpl;
         return ob_get_clean();
+    }
+
+    protected function getGroups(){
+        return \R::getAssoc('SELECT id, title FROM attribute_group');
+    }
+
+    protected static function getAttrs(){
+        $data = \R::getAssoc('SELECT * FROM attribute_value');
+        $attrs = [];
+        foreach($data as $k => $v){
+            $attrs[$v['attr_group_id']][$k] = $v['value'];
+        }
+        return $attrs;
     }
 
     public static function getFilter(){
@@ -85,6 +81,7 @@ class Filter
                 }
             }
         }
-      return count($data);
+        return count($data);
     }
+
 }

@@ -2,8 +2,9 @@
 
 function debug($arr, $die = false){
     echo '<pre>' . print_r($arr, true) . '</pre>';
-    if(die) die;
+    if($die) die;
 }
+
 function redirect($http = false){
     if($http){
         $redirect = $http;

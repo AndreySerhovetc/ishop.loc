@@ -18,15 +18,15 @@
                     <div class="table-responsive">
                         <table class="table table-bordered table-hover">
                             <thead>
-                            <tr>
-                                <th>ID</th>
-                                <th>Покупатель</th>
-                                <th>Статус</th>
-                                <th>Сумма</th>
-                                <th>Дата создания</th>
-                                <th>Дата изменения</th>
-                                <th>Действия</th>
-                            </tr>
+                                <tr>
+                                    <th>ID</th>
+                                    <th>Покупатель</th>
+                                    <th>Статус</th>
+                                    <th>Сумма</th>
+                                    <th>Дата создания</th>
+                                    <th>Дата изменения</th>
+                                    <th>Действия</th>
+                                </tr>
                             </thead>
                             <tbody>
                             <?php foreach($orders as $order): ?>
@@ -38,8 +38,7 @@
                                     <td><?=$order['sum'];?> <?=$order['currency'];?></td>
                                     <td><?=$order['date'];?></td>
                                     <td><?=$order['update_at'];?></td>
-                                    <td><a href="<?=ADMIN;?>/order/view?id=<?=$order['id'];?>"><i class="fa fa-fw fa-eye"></i></a>
-                                        <a class="delete" href="<?=ADMIN;?>/order/delete?id=<?=$order['id'];?>"><i class="fa fa-fw fa-close text-danger"></i></a></td>
+                                    <td><a href="<?=ADMIN;?>/order/view?id=<?=$order['id'];?>"><i class="fa fa-fw fa-eye"></i></a> <a class="delete" href="<?=ADMIN;?>/order/delete?id=<?=$order['id'];?>"><i class="fa fa-fw fa-close text-danger"></i></a></td>
                                 </tr>
                             <?php endforeach; ?>
                             </tbody>

@@ -7,17 +7,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 <head>
-    <base href="<?=PATH;?>/">
-    <?=$this->getMeta();?>
+    <base href="/">
     <link rel="shortcut icon" href="images/star.png" type="image/png" />
+    <?=$this->getMeta();?>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="megamenu-js/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
-    <link href="megamenu-js/css/style.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="megamenu/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="megamenu/css/style.css" rel="stylesheet" type="text/css" media="all" />
     <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
-
     <!--theme-style-->
     <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-    <!--theme-style-->
+    <!--//theme-style-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
@@ -48,7 +47,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <div class="clearfix"></div>
                 </div>
             </div>
-            
             <div class="col-md-6 top-header-left">
                 <div class="cart box_1">
                     <a href="cart/show" onclick="getCart(); return false;">
@@ -57,11 +55,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <?php if(!empty($_SESSION['cart'])): ?>
                                 <span class="simpleCart_total"><?=$_SESSION['cart.currency']['symbol_left'] . $_SESSION['cart.sum'] . $_SESSION['cart.currency']['symbol_right'];?></span>
                             <?php else: ?>
-                                <span class="simpleCart_total"></span>
+                                <span class="simpleCart_total">Empty Cart</span>
                             <?php endif; ?>
                         </div>
                     </a>
-                    
                     <div class="clearfix"> </div>
                 </div>
             </div>
@@ -87,15 +84,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         ]); ?>
                     </div>
                 </div>
-
                 <div class="clearfix"> </div>
             </div>
             <div class="col-md-3 header-right">
                 <div class="search-bar">
                     <form action="search" method="get" autocomplete="off">
-                        <input type="text" class="typeahead" id="typeahead" name="s" placeholder="search">
+                        <input type="text" class="typeahead" id="typeahead" name="s">
                         <input type="submit" value="">
                     </form>
+                    <!--<input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+                    <input type="submit" value="">-->
                 </div>
             </div>
             <div class="clearfix"> </div>
@@ -186,6 +184,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
     </div>
 </div>
+<!--footer-end-->
 
 <!-- Modal -->
 <div class="modal fade" id="cart" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -201,26 +200,27 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Продолжить покупки</button>
                 <a href="cart/view" type="button" class="btn btn-primary">Оформить заказ</a>
-                <button  type="button" class="btn btn-danger" onclick="clearCart()">Очистить корзину</button>
+                <button type="button" class="btn btn-danger" onclick="clearCart()">Очистить корзину</button>
             </div>
         </div>
     </div>
 </div>
-<!--footer-end-->
+
 <div class="preloader"><img src="images/ring.svg" alt=""></div>
-<?php $curr = \ishop\App::$app->getProperty('currency');?>
+
+<?php $curr = \ishop\App::$app->getProperty('currency'); ?>
 <script>
     var path = '<?=PATH;?>',
         course = <?=$curr['value'];?>,
         symboleLeft = '<?=$curr['symbol_left'];?>',
         symboleRight = '<?=$curr['symbol_right'];?>';
 </script>
+
 <script src="js/jquery-1.11.0.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/validator.js"></script>
 <script src="js/typeahead.bundle.js"></script>
-
-
+<!--dropdown-->
 <script src="js/jquery.easydropdown.js"></script>
 <!--Slider-Starts-Here-->
 <script src="js/responsiveslides.min.js"></script>
@@ -244,11 +244,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
     });
 </script>
-
-<script src="megamenu-js/js/megamenu.js"></script>
+<script src="megamenu/js/megamenu.js"></script>
 <script src="js/imagezoom.js"></script>
 <script defer src="js/jquery.flexslider.js"></script>
-
 <script>
     // Can also be used with $(document).ready()
     $(window).load(function() {
@@ -282,5 +280,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     });
 </script>
 <script src="js/main.js"></script>
+<!--End-slider-script-->
+
+<?php
+$logs = \R::getDatabaseAdapter()
+    ->getDatabase()
+    ->getLogger();
+
+debug( $logs->grep( 'SELECT' ) );
+?>
 </body>
 </html>
