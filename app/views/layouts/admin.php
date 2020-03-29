@@ -10,6 +10,7 @@
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <!-- Bootstrap 3.3.7 -->
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/select2/dist/css/select2.min.css">
     <!-- Font Awesome -->
     <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
     <!-- Ionicons -->
@@ -345,6 +346,28 @@
                         <li><a href="<?= ADMIN ?>/user/add">Добавить пользователя</a></li>
                     </ul>
                 </li>
+                <li class="treeview">
+                    <a href="#"><i class="fa fa-usd"></i> <span>Валюты</span>
+                        <span class="pull-right-container">
+<i class="fa fa-angle-left pull-right"></i>
+</span>
+                    </a>
+                    <ul class="treeview-menu">
+                        <li><a href="<?= ADMIN ?>/currency">Список валют</a></li>
+                        <li><a href="<?= ADMIN ?>/currency/add">Добавить валюту</a></li>
+                    </ul>
+                </li>
+                <li class="treeview">
+                    <a href="#"><i class="fa fa-filter"></i> <span>Фильтры</span>
+                        <span class="pull-right-container">
+<i class="fa fa-angle-left pull-right"></i>
+</span>
+                    </a>
+                    <ul class="treeview-menu">
+                        <li><a href="<?= ADMIN ?>/filter/attribute-group">Группы фильтров</a></li>
+                        <li><a href="<?= ADMIN ?>/filter/attribute">Фильтры</a></li>
+                    </ul>
+                </li>
             </ul>
         </section>
         <!-- /.sidebar -->
@@ -576,10 +599,11 @@
 
 <!-- jQuery 3 -->
 <script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script src="/js/ajaxupload.js"></script>
 <!-- Bootstrap 3.3.7 -->
 <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+<script src="bower_components/select2/dist/js/select2.full.js"></script>
 <script src="/js/validator.js"></script>
-<script src="bower_components/fastclick/lib/fastclick.js"></script>
 <!-- AdminLTE App -->
 <script src="dist/js/adminlte.min.js"></script>
 <script src="bower_components/ckeditor/ckeditor.js"></script>

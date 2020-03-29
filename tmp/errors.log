@@ -173,3 +173,81 @@
 =================
 [2017-09-11 19:46:18] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
 =================
+[2017-09-12 19:13:23] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-12 19:13:24] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-12 19:34:52] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-12 19:36:37] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-12 19:36:40] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-12 19:36:49] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-12 19:37:08] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-12 19:37:21] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-12 19:37:42] Текст ошибки: Метод app\controllers\admin\ProductController::relatedProductAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-13 18:35:25] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 18:35:25] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:00:45] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-13 19:05:22] Текст ошибки: Метод app\controllers\admin\ProductController::addImageAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-13 19:05:53] Текст ошибки: Метод app\controllers\admin\ProductController::addImageAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================
+[2017-09-13 19:07:33] Текст ошибки: На найден вид D:\WebServer\domains\ishop2.loc/app/views/admin\Product/add-image.php | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2017-09-16 11:06:59] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 11:06:59] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 11:59:22] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка: 29
+=================
+[2017-09-16 11:59:51] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\admin\AppController.php | Строка: 29
+=================
+[2017-09-16 12:17:25] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\ProductController.php | Строка: 14
+=================
+[2017-09-16 12:17:29] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\ProductController.php | Строка: 14
+=================
+[2017-09-16 12:17:58] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\ProductController.php | Строка: 14
+=================
+[2017-09-16 12:33:58] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\ProductController.php | Строка: 14
+=================
+[2017-09-16 12:34:10] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\app\controllers\ProductController.php | Строка: 14
+=================
+[2017-09-16 14:33:17] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 14:33:17] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 15:00:10] Текст ошибки: Invalid type: attribute_group | Файл: D:\WebServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Util\DispenseHelper.php | Строка: 37
+=================
+[2017-09-16 15:06:26] Текст ошибки: Plugin 'xdispense' does not exist, add this plugin using: R::ext('xdispense') | Файл: D:\WebServer\domains\ishop2.loc\vendor\gabordemooij\redbean\RedBeanPHP\Facade.php | Строка: 2004
+=================
+[2017-09-16 15:12:41] Текст ошибки: На найден вид D:\WebServer\domains\ishop2.loc/app/views/admin\Filter/attribute.php | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2017-09-16 15:12:47] Текст ошибки: На найден вид D:\WebServer\domains\ishop2.loc/app/views/admin\Filter/attribute.php | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\base\View.php | Строка: 38
+=================
+[2017-09-16 18:15:24] Текст ошибки: Страница не найдена | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 39
+=================
+[2017-09-16 18:47:39] Текст ошибки: Метод app\controllers\admin\ProductController::deleteAction не найден | Файл: D:\WebServer\domains\ishop2.loc\vendor\ishop\core\Router.php | Строка: 33
+=================

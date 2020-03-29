@@ -23,8 +23,12 @@ abstract class Model{
         }
     }
 
-    public function save($table){
-        $tbl = \R::dispense($table);
+    public function save($table, $valid = true){
+        if($valid){
+            $tbl = \R::dispense($table);
+        }else{
+            $tbl = \R::xdispense($table);
+        }
         foreach($this->attributes as $name => $value){
             $tbl->$name = $value;
         }
